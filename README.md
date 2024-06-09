@@ -14,6 +14,9 @@
     <a href="https://x.com/AShinooo44">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="Twitter" width="50" height="50">
     </a>
+          <a href="201068814337">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" alt="whatsapp" width="50" height="50">
+    </a>
 </div>
 
 ###
