@@ -1,12 +1,19 @@
 - 👋 Hi, I’m @Ahmedshinooo44
 - 👀 I’m interested in mobile apps
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning dart
 
-<!---
-Ahmedshinooo44/Ahmedshinooo44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="left">My Social Media</h2>
+
+<div align="left">
+      <a href="https://www.facebook.com/ahmedjimmy2020" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="Twitter" width="50" height="50">
+    </a>
+      <a href="https://www.linkedin.com/in/ahmed-shinoo-60694a277/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Twitter" width="50" height="50">
+    </a>
+    <a href="https://x.com/AShinooo44">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="Twitter" width="50" height="50">
+    </a>
+</div>
+
+###
