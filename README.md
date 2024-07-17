@@ -7,11 +7,11 @@
       <a href="https://www.facebook.com/ahmedjimmy2020" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="Twitter" width="50" height="50">
     </a>
-      <a>
-     https://github.com/user-attachments/assets/e83c9d4f-2eed-447d-b81e-74306581685b 
-
-</a>
-
+     
+   href=" "
+<a href="(https://github.com/user-attachments/assets/e83c9d4f-2eed-447d-b81e-74306581685b)" target="_blank">
+    <img src="(https://github.com/user-attachments/assets/e83c9d4f-2eed-447d-b81e-74306581685b)" alt="Twitter" width="50" height="50">
+    </a>
 
 </div>
 
