@@ -3,15 +3,11 @@
 - 🌱 I’m currently learning dart
 <h2 align="left">My Tools</h2>
 
-<div align="left">
-      <a href="https://www.facebook.com/ahmedjimmy2020" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="Twitter" width="50" height="50">
-    </a>
+
      
-   href=" "
-<a href="(https://github.com/user-attachments/assets/e83c9d4f-2eed-447d-b81e-74306581685b)" target="_blank">
-    <img src="(https://github.com/user-attachments/assets/e83c9d4f-2eed-447d-b81e-74306581685b)" alt="Twitter" width="50" height="50">
-    </a>
+
+![icons8-dart-60](https://github.com/user-attachments/assets/42caa5d3-a8e1-429f-a96e-3532f230b290)
+![icons8-flutter (1)](https://github.com/user-attachments/assets/9b7068c3-6971-4ca4-9f2e-806561603dfe)
 
 </div>
 
