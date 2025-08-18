@@ -7,7 +7,8 @@
 ![icons8-html-5](https://github.com/user-attachments/assets/d0ac0f8f-d0a5-4109-976c-ed38f4ae7abb)
 ![icons8-css3](https://github.com/user-attachments/assets/f30dbb0e-d378-46db-9a91-231c5e464eb9)
 ![icons8-dart-60](https://github.com/user-attachments/assets/42caa5d3-a8e1-429f-a96e-3532f230b290)
-!![PHP Logo](https://raw.githubusercontent.com/USERNAME/REPO/main/path/to/php-icon.png)
+![PHP Logo](https://raw.githubusercontent.com/YourUserName/YourRepo/main/assets/php.png)
+
 
 </svg>)
 
